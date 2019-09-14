@@ -24,10 +24,11 @@ Key features:
   
 # Video
 [![Capture3](https://user-images.githubusercontent.com/55325587/64911785-0a453380-d6db-11e9-8c8f-3a785edef4b6.JPG)(http://img.youtube.com/vi/v=tz2DYphzNgY&t=7s/0.jpg)](http://www.youtube.com/watch?v=tz2DYphzNgY&t=7s)  
-  
-    
-![Capture](https://user-images.githubusercontent.com/55325587/64912020-049d1d00-d6de-11e9-8fd5-1a51aaac945c.JPG)
-  
+
+# Kinematics Model  
+![Capture4](https://user-images.githubusercontent.com/55325587/64912020-049d1d00-d6de-11e9-8fd5-1a51aaac945c.JPG)  
+
+# Kinematics Diagram  
 <img width="604" alt="Kinematics_Diagram" src="https://user-images.githubusercontent.com/55325587/64912021-0bc42b00-d6de-11e9-9ec9-f86701ce2a56.PNG">
 
   
