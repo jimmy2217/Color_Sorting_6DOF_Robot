@@ -10,7 +10,7 @@ Key features:
 - Custom wiring and PCBs  
   
 # Video_Operation
-  [![Capture](https://user-images.githubusercontent.com/55325587/64911642-5e4f1880-d6d9-11e9-9de1-b2d9ac0ae9ce.JPG)(http://img.youtube.com/vi/HCFQePH5pQ0/0.jpg)](http://www.youtube.com/watch?v=HCFQePH5pQ0)  
+  [![Capture](http://img.youtube.com/vi/HCFQePH5pQ0/0.jpg)](http://www.youtube.com/watch?v=HCFQePH5pQ0)  (https://user-images.githubusercontent.com/55325587/64911642-5e4f1880-d6d9-11e9-9de1-b2d9ac0ae9ce.JPG)
   
 ![Capture1](https://user-images.githubusercontent.com/55325587/64911651-79ba2380-d6d9-11e9-8b3d-03331a3a589e.JPG)
   
